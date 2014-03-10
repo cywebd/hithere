@@ -11,6 +11,8 @@
        if ( text.value === "" ) {
             text.className = "error";
        }
-
+       if ( select.value === "" ) {
+            
+       }    
     });
 }())
